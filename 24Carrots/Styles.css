@@ -1,0 +1,195 @@
+
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+
+    
+
+                .epyt-gallery-thumb {
+                        width: 33.333%;
+                }
+                
+                         @media (min-width:0px) and (max-width: 767px) {
+                            .epyt-gallery-rowbreak {
+                                display: none;
+                            }
+                            .epyt-gallery-allthumbs[class*="epyt-cols"] .epyt-gallery-thumb {
+                                width: 100% !important;
+                            }
+                          }
+
+                         
+                          #header-main {
+                            box-shadow: none ! important;
+                        }
+                        #home-4 .img-fade-top:before{
+                            display:none;
+                            }
+                        
+                        #navigation-menu a {
+                            padding-top: 40px;
+                            padding-bottom: 40px;
+                        }
+                        #navigation-menu {
+                            max-width: 1400px;  
+                        }
+                        
+                        #logo a {
+                            padding: 0;
+                        }
+                        #logo a img {
+                            max-width: 180px;
+                            padding-top: 15px;
+                            box-shadow: none ! important;
+                        }
+                        
+                        #about .cteh-logo{
+                            width:300px !important;
+                            margin-top: 27px;
+                        }
+                        
+                        .diversity-header{
+                            font-size:3em;
+                            padding-top:3%;
+                        }
+                        
+                        .diversity-quote{
+                            font-size: 0.9375rem;
+                            font-family: 'futura-pt',Helvetica,sans-serif;
+                            letter-spacing: 1px;
+                            text-transform: uppercase;
+                            color: #4f6f18;
+                        }
+                        
+                        .sent #hideform {
+                            display: none;
+                        }
+                        
+                        @media screen and (max-width: 1024px) {
+                            #logo a img {
+                                padding-top: 20px;
+                            }	
+                            
+                        }
+                        
+                        @media screen and (max-width: 680px) {
+                            #logo a img {
+                                padding-top: 37px;
+                            }	
+                            
+                        }
+                        #header-mobile {
+                           box-shadow: none;	
+                        }
+                        
+                        @media screen and (max-width: 640px) {
+                            #header-mobile {
+                                height: 65px;
+                            }
+                            #logo-mobile img {
+                            width: 140px;
+                            padding-top: 15px;
+                        }
+                            
+                        }
+                        
+                        /* Custom CSS for Careers Page */
+                        .job-btn{
+                             font-weight: 400!important;
+                            font-family: 'futura-pt-condensed',Helvetica,sans-serif;
+                              font-size: 1.8em;
+                            color: white;
+                            border: 1px solid white;
+                            background: #4f6f18;
+                            text-align: center;
+                            outline: 8px solid #4f6f18; 
+                              padding: 0.15em 2.5em;
+                           
+                        }
+                        .job-btn:hover { font-family: 'futura-pt-condensed',Helvetica,sans-serif;
+                              font-size: 1.8em;
+                            color: white;
+                            border: 1px solid white ;
+                            background: #5c811d;
+                            text-align: center;
+                            outline: 8px solid #5c811d; 
+                             
+                           }
+                        .contact-form input, .contact-form select, .contact-form textarea{
+                                font-size: 18px;
+                            font-size: 1.125rem;
+                            width: 100%;
+                            height: 40px;
+                            font-family: 'futura-pt',Helvetica,Arial,sans-serif;
+                            border: 1px solid #cdcdcd;
+                        }
+                        .contact-form textarea{	
+                            height: auto;
+                        }
+                        .contact-form input[type=submit] {
+                            padding: 12px 24px 10px;
+                            padding: 0.75rem 1.5rem 0.625rem;
+                            font-size: 16px;
+                            font-size: 1rem;
+                            font-family: 'futura-pt',Helvetica,Arial,sans-serif;
+                            font-weight: bold;
+                            text-transform: uppercase;
+                            color: #FFFFFF;
+                            background: #4f6f18;
+                            border: none;
+                                width:160px
+                        }
+                        .contact-form input[type=submit]:hover {
+                            background: #69843a;
+                        }
+                        #fansican-page .paragraph-heading, #casa-page .paragraph-heading {
+                            font-size: 1.875rem;
+                            color: #4f6f17;
+                        }
+                        
+                        
+                            .contact-flex {
+                                display: flex;
+                                align-items: center;
+                                justify-content: space-between;
+                            }
+                        
+                            .wpcf7 .ajax-loader{
+                                display:none
+                            }
+                        
+                        @media screen and (max-width: 1100px) {
+                            .ptb,.ftb{   margin-top: 40px;}}
+                        @media screen and (min-width: 1100px) {
+                            .job-btn{ 
+                        padding: 0.2em 3.5em ! important ;
+                                
+                                
+                                
+                            font-weight: 400!important;}
+                        
+                        .ftb{ margin-right: 4em; display: inline-block; }
+                            .ptb{ margin-left: 4em; display: inline-block;} 
+                        .job-btn-main {
+                            margin-top: 60px;
+                            margin-bottom: 50px;
+                        }
+                            .after-btn{margin-top: 60px !important;
+                            margin-bottom: 50px !important; }	
+                        .back-img {  background-image: url("https://24carrots.com/wp-content/uploads/2021/07/imageedit_3_4288166056-min.png") ;
+                         /* Center the image */
+                          background-repeat: no-repeat; /* Do not repeat the image */
+                          background-size: cover 
+                                ; 
+                        
+                          background-position: 100% 18% ;
+                            }}
